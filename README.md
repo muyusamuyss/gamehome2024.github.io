@@ -1,2 +1,0 @@
-# muyusamuyss.github.io
-games
