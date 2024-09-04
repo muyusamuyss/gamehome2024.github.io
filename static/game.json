@@ -1423,7 +1423,12 @@
         }
     ],
     "HotGameConfigs": [
-
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 3
+        },
         {
             "_id": "2",
             "name": "块块左右消",
@@ -1500,7 +1505,12 @@
         }
     ],
     "BannerShowGameConfigs": [
-
+        {
+            "_id": "1",
+            "name": "丧尸围城",
+            "gameId": "1",
+            "sort": 1
+        },
         {
             "_id": "2",
             "name": "麻将挪对对",
