@@ -897,6 +897,78 @@
             "id": "Sebuah permainan santai dan teka-teki, gameplay-nya sederhana: hanya perlu memindahkan semua mobil ke ruang kosong untuk membiarkan mobil kecil meninggalkan tempat parkir dengan sukses untuk kemenangan. Mobil tidak boleh bertabrakan dengan pejalan kaki selama pergerakan. Permainan ini menawarkan banyak level yang menantang, masing-masing dengan desain yang unik, memberikan pengalaman permainan teka-teki yang paling seru dan memeras otak.",
             "pt_br": "Um jogo casual de resolução de quebra-cabeças, a jogabilidade é simples: basta mover todos os carros para os espaços vazios para permitir que o carro pequeno saia do estacionamento com sucesso para a vitória. Os carros não podem colidir com pedestres durante o movimento. O jogo oferece uma enorme quantidade de níveis para você desafiar, cada um com designs únicos, proporcionando a você a experiência de jogo de resolução de quebra-cabeças mais emocionante e desafiadora.",
             "vi": "Một trò chơi giải đố thư giãn và giải đố, gameplay đơn giản: chỉ cần di chuyển tất cả các xe đến các vị trí trống để cho phép xe nhỏ rời khỏi bãi đỗ xe một cách thành công để chiến thắng. Xe không được va chạm với người đi bộ trong quá trình di chuyển. Trò chơi cung cấp một số lượng lớn các cấp độ cho bạn thách thức, mỗi cấp độ đều có thiết kế độc đáo, mang lại cho bạn trải nghiệm trò chơi giải đố thư giãn và đầy thách thức nhất."
+        },
+        {
+            "_id": "113",
+            "key": "猎龙传说",
+            "en_us": "legend_of_dragon_hunt",
+            "id":  "Legenda Pemburu Naga",
+            "pt_br":"Lenda do Caçador de Dragões",
+            "vi": "Huyền Thoại Săn Rồng"
+        },
+        {
+            "_id": "114",
+            "key": "猎龙传说是一款充满冒险和策略的角色扮演游戏，玩家将探索奇幻世界，追逐强大的龙。",
+            "en_us": "Legend of Dragon Hunt is an adventure-packed role-playing game where players explore a fantasy world in pursuit of powerful dragons.",
+            "id":  "Legenda Pemburu Naga adalah permainan peran yang penuh petualangan dan strategi, di mana pemain akan menjelajahi dunia fantasi dan mengejar naga yang kuat.",
+            "pt_br":" Lenda do Caçador de Dragões é um jogo de RPG repleto de aventura e estratégia, onde os jogadores explorarão um mundo fantástico e perseguirão dragões poderosos.",
+            "vi": "Huyền Thoại Săn Rồng là một trò chơi nhập vai đầy phiêu lưu và chiến lược, nơi người chơi sẽ khám phá thế giới kỳ diệu và truy đuổi những con rồng mạnh mẽ."
+        },
+        {
+            "_id": "115",
+            "key": "玩家将扮演勇敢的猎手，踏上征程，捕捉并驯服各类龙。游戏结合了丰富的故事情节、强大的角色发展系统和紧张的战斗机制，让每一次战斗都充满挑战。通过合作与竞争，玩家可以与好友一起探索这个广阔的奇幻世界，体验令人兴奋的冒险。",
+            "en_us": "players assume the role of brave hunters on a quest to capture and tame various dragons. The game features rich storytelling, a robust character development system, and intense combat mechanics that make every battle a challenge. Through cooperation and competition, players can explore this vast fantasy world with friends and experience thrilling adventures.",
+            "id":  "Pemain akan berperan sebagai pemburu yang berani, memulai perjalanan untuk menangkap dan menjinakkan berbagai jenis naga. Permainan ini menggabungkan alur cerita yang kaya, sistem pengembangan karakter yang kuat, dan mekanisme pertarungan yang menegangkan, menjadikan setiap pertarungan penuh tantangan. Melalui kerja sama dan kompetisi, pemain dapat menjelajahi dunia fantasi yang luas ini bersama teman-teman, merasakan petualangan yang mendebarkan.",
+            "pt_br":"Os jogadores assumirão o papel de corajosos caçadores, embarcando em uma jornada para capturar e domar diversos tipos de dragões. O jogo combina uma rica narrativa, um poderoso sistema de desenvolvimento de personagens e mecânicas de combate intensas, tornando cada batalha um desafio. Através da cooperação e competição, os jogadores podem explorar este vasto mundo fantástico com amigos, vivenciando aventuras emocionantes.",
+            "vi": "Người chơi sẽ vào vai những thợ săn dũng cảm, bắt đầu hành trình để bắt và thuần hóa nhiều loại rồng khác nhau. Trò chơi kết hợp cốt truyện phong phú, hệ thống phát triển nhân vật mạnh mẽ và cơ chế chiến đấu căng thẳng, khiến mỗi trận chiến đều đầy thử thách. Thông qua hợp tác và cạnh tranh, người chơi có thể cùng bạn bè khám phá thế giới kỳ diệu rộng lớn này, trải nghiệm những cuộc phiêu lưu thú vị."
+        },
+        {
+            "_id": "116",
+            "key": "恐龙猎手",
+            "en_us": "Dinosaur_Hunter",
+            "id":  "Pemburu_Dinosaurus",
+            "pt_br":"Caçador_de_Dinossauros",
+            "vi": "Thợ_săn_Khủng_long"
+        },
+        {
+            "_id": "117",
+            "key": "一款激动人心的动作游戏，玩家将操控变形金刚与恐龙展开激烈战斗。",
+            "en_us": "Transformers vs Dinosaurs is an exciting action game where players control Transformers to engage in fierce battles against dinosaurs.",
+            "id":  "Transformers melawan Dinosaurus adalah permainan aksi yang mendebarkan di mana pemain mengendalikan Transformers untuk terlibat dalam pertempuran sengit melawan dinosaurus.",
+            "pt_br":"Transformers vs Dinossauros é um emocionante jogo de ação onde os jogadores controlam Transformers para se envolver em batalhas ferozes contra dinossauros.",
+            "vi": "Biến hình chống lại Khủng long là một trò chơi hành động đầy hồi hộp, nơi người chơi điều khiển các biến hình để tham gia vào những trận chiến ác liệt với khủng long."
+        },
+        {
+            "_id": "118",
+            "key": "玩家将体验到变形金刚与恐龙之间的史诗对决。游戏结合了快速的战斗机制和丰富的角色选择，让每场战斗都充满乐趣和挑战。通过完成任务和挑战，玩家可以解锁新的变形金刚和恐龙，提升游戏体验。",
+            "en_us": "In Transformers vs Dinosaurs, players will experience an epic showdown between Transformers and dinosaurs. The game combines fast-paced combat mechanics with a rich selection of characters, making each battle fun and challenging. By completing missions and challenges, players can unlock new Transformers and dinosaurs, enhancing their gaming experience.",
+            "id":  "Dalam Transformers melawan Dinosaurus, pemain akan merasakan pertarungan epik antara Transformers dan dinosaurus. Permainan ini menggabungkan mekanika pertarungan yang cepat dengan pilihan karakter yang kaya, menjadikan setiap pertempuran menyenangkan dan menantang. Dengan menyelesaikan misi dan tantangan, pemain dapat membuka kunci Transformers dan dinosaurus baru, meningkatkan pengalaman bermain mereka.",
+            "pt_br":"Em Transformers vs Dinossauros, os jogadores experimentarão um confronto épico entre Transformers e dinossauros. O jogo combina mecânicas de combate rápidas com uma rica seleção de personagens, tornando cada batalha divertida e desafiadora. Ao completar missões e desafios, os jogadores podem desbloquear novos Transformers e dinossauros, aprimorando sua experiência de jogo.",
+            "vi": "Trong Biến hình chống lại Khủng long, người chơi sẽ trải nghiệm cuộc đối đầu sử thi giữa các biến hình và khủng long. Trò chơi kết hợp cơ chế chiến đấu nhanh chóng với sự lựa chọn nhân vật phong phú, khiến mỗi trận chiến trở nên thú vị và đầy thách thức. Bằng cách hoàn thành nhiệm vụ và thử thách, người chơi có thể mở khóa các biến hình và khủng long mới, nâng cao trải nghiệm chơi game của họ."
+        },
+        {
+            "_id": "119",
+            "key": "皮纳塔射手",
+            "en_us": "Pinata_Shooter",
+            "id":  "Penembak_Pinata",
+            "pt_br":"Atirador_de_Pinata",
+            "vi": "Người_bắn_Pinata"
+        },
+        {
+            "_id": "120",
+            "key": "一款有趣的射击游戏，玩家需要击打彩色皮纳塔以获得奖励。",
+            "en_us": "Transformers vs Dinosaurs is an exciting action game where players control Transformers to engage in fierce battles against dinosaurs.",
+            "id":  "Transformers melawan Dinosaurus adalah permainan aksi yang mendebarkan di mana pemain mengendalikan Transformers untuk terlibat dalam pertempuran sengit melawan dinosaurus.",
+            "pt_br":"Transformers vs Dinossauros é um emocionante jogo de ação onde os jogadores controlam Transformers para se envolver em batalhas ferozes contra dinossauros.",
+            "vi": "Biến hình chống lại Khủng long là một trò chơi hành động đầy hồi hộp, nơi người chơi điều khiển các biến hình để tham gia vào những trận chiến ác liệt với khủng long."
+        },
+        {
+            "_id": "121",
+            "key": "玩家将体验到充满乐趣和挑战的射击玩法。游戏中有多种不同的皮纳塔，每种都有独特的奖励和难度。通过精准的射击和快速的反应，玩家可以解锁新关卡和道具，提升游戏体验。",
+            "en_us": "In Transformers vs Dinosaurs, players will experience an epic showdown between Transformers and dinosaurs. The game combines fast-paced combat mechanics with a rich selection of characters, making each battle fun and challenging. By completing missions and challenges, players can unlock new Transformers and dinosaurs, enhancing their gaming experience.",
+            "id":  "Dalam Transformers melawan Dinosaurus, pemain akan merasakan pertarungan epik antara Transformers dan dinosaurus. Permainan ini menggabungkan mekanika pertarungan yang cepat dengan pilihan karakter yang kaya, menjadikan setiap pertempuran menyenangkan dan menantang. Dengan menyelesaikan misi dan tantangan, pemain dapat membuka kunci Transformers dan dinosaurus baru, meningkatkan pengalaman bermain mereka.",
+            "pt_br":"Em Transformers vs Dinossauros, os jogadores experimentarão um confronto épico entre Transformers e dinossauros. O jogo combina mecânicas de combate rápidas com uma rica seleção de personagens, tornando cada batalha divertida e desafiadora. Ao completar missões e desafios, os jogadores podem desbloquear novos Transformers e dinossauros, aprimorando sua experiência de jogo.",
+            "vi": "Trong Biến hình chống lại Khủng long, người chơi sẽ trải nghiệm cuộc đối đầu sử thi giữa các biến hình và khủng long. Trò chơi kết hợp cơ chế chiến đấu nhanh chóng với sự lựa chọn nhân vật phong phú, khiến mỗi trận chiến trở nên thú vị và đầy thách thức. Bằng cách hoàn thành nhiệm vụ và thử thách, người chơi có thể mở khóa các biến hình và khủng long mới, nâng cao trải nghiệm chơi game của họ."
         }
     ],
     "GameConfigs": [
@@ -906,8 +978,8 @@
             "sort": 1,
             "type": "射击",
             "screenMode": 0,
-            "gameUrl_cn": "games/sswc/index.html",
-            "gameUrl": "games/sswc/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/sswc/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/sswc/index.html",
             "icon": "resources/images/gameIcons/icon_sswc.png",
             "icon1": "resources/images/gameIcons/icon_sswc1.jpg",
             "screenShoots": [
@@ -925,8 +997,8 @@
             "sort": 9,
             "type": "消除",
             "screenMode": 0,
-            "gameUrl_cn": "games/kkzyx/index.html",
-            "gameUrl": "games/kkzyx/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/kkzyx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/kkzyx/index.html",
             "icon": "resources/images/gameIcons/icon_kkzyx.png",
             "screenShoots": [
                 "resources/images/screenShoot/kkzyx/1.jpg",
@@ -944,8 +1016,8 @@
             "sort": 8,
             "type": "消除",
             "screenMode": 0,
-            "gameUrl_cn": "games/hcdtz/index.html",
-            "gameUrl": "games/hcdtz/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcdtz/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcdtz/index.html",
             "icon": "resources/images/gameIcons/icon_hcdtz.png",
             "screenShoots": [
                 "resources/images/screenShoot/hcdtz/1.jpg",
@@ -962,8 +1034,8 @@
             "sort": 3,
             "type": "二合消除",
             "screenMode": 0,
-            "gameUrl_cn": "games/hcxy/index.html",
-            "gameUrl": "games/hcxy/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcxy/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcxy/index.html",
             "icon": "resources/images/gameIcons/icon_hcxy.png",
             "screenShoots": [
                 "resources/images/screenShoot/hcxy/1.jpg",
@@ -979,8 +1051,8 @@
             "sort": 9,
             "type": "消除",
             "screenMode": 0,
-            "gameUrl_cn": "games/fkxcds/index.html",
-            "gameUrl": "games/fkxcds/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkxcds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkxcds/index.html",
             "icon": "resources/images/gameIcons/icon_fkxcds.png",
             "screenShoots": [
                 "resources/images/screenShoot/fkxcds/1.jpg",
@@ -997,8 +1069,8 @@
             "sort": 4,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/zqdmm/index.html",
-            "gameUrl": "games/zqdmm/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/zqdmm/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zqdmm/index.html",
             "icon": "resources/images/gameIcons/icon_zqdmm.png",
             "screenShoots": [
                 "resources/images/screenShoot/zqdmm/1.jpg",
@@ -1016,8 +1088,8 @@
             "sort": 5,
             "type": "消除",
             "screenMode": 0,
-            "gameUrl_cn": "games/mjndd/index.html",
-            "gameUrl": "games/mjndd/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/mjndd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/mjndd/index.html",
             "icon": "resources/images/gameIcons/icon mjndd.png",
             "screenShoots": [
                 "resources/images/screenShoot/mjndd/1.jpg",
@@ -1034,8 +1106,8 @@
             "sort": 19,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/fkpsd/index.html",
-            "gameUrl": "games/fkpsd/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkpsd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkpsd/index.html",
             "icon": "resources/images/gameIcons/icon_fkpsd.png",
             "screenShoots": [
                 "resources/images/screenShoot/fkpsd/1.jpg",
@@ -1053,8 +1125,8 @@
             "sort": 21,
             "type": "手速",
             "screenMode": 1,
-            "gameUrl_cn": "games/bdjs/index.html",
-            "gameUrl": "games/bdjs/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/bdjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/bdjs/index.html",
             "icon": "resources/images/gameIcons/icon_bdjs.png",
             "screenShoots": [
                 "resources/images/screenShoot/bdjs/1.jpg",
@@ -1072,8 +1144,8 @@
             "sort": 22,
             "type": "跑酷",
             "screenMode": 0,
-            "gameUrl_cn": "games/ddpxr/index.html",
-            "gameUrl": "games/ddpxr/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/ddpxr/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ddpxr/index.html",
             "icon": "resources/images/gameIcons/icon_ddpxr.png",
             "screenShoots": [
                 "resources/images/screenShoot/ddpxr/1.jpg",
@@ -1090,8 +1162,8 @@
             "sort": 18,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/dfhjd/index.html",
-            "gameUrl": "games/dfhjd/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/dfhjd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/dfhjd/index.html",
             "icon": "resources/images/gameIcons/icon_dfhjd.png",
             "screenShoots": [
                 "resources/images/screenShoot/dfhjd/1.jpg",
@@ -1109,8 +1181,8 @@
             "sort": 32,
             "type": "放置",
             "screenMode": 0,
-            "gameUrl_cn": "games/fkjdts/index.html",
-            "gameUrl": "games/fkjdts/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/fkjdts/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fkjdts/index.html",
             "icon": "resources/images/gameIcons/icon_fkjdts.png",
             "screenShoots": [
                 "resources/images/screenShoot/fkjdts/1.jpg",
@@ -1127,8 +1199,8 @@
             "sort": 33,
             "type": "赛车",
             "screenMode": 1,
-            "gameUrl_cn": "games/ftlsj/index.html",
-            "gameUrl": "games/ftlsj/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/ftlsj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ftlsj/index.html",
             "icon": "resources/images/gameIcons/icon_ftlsj.png",
             "screenShoots": [
                 "resources/images/screenShoot/ftlsj/1.jpg",
@@ -1146,8 +1218,8 @@
             "sort": 34,
             "type": "桌面",
             "screenMode": 0,
-            "gameUrl_cn": "games/fxqzjb/index.html",
-            "gameUrl": "games/fxqzjb/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/fxqzjb/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/fxqzjb/index.html",
             "icon": "resources/images/gameIcons/icon_fxqzjb.png",
             "screenShoots": [
                 "resources/images/screenShoot/fxqzjb/1.jpg",
@@ -1165,8 +1237,8 @@
             "sort": 23,
             "type": "益智",
             "screenMode": 0,
-            "gameUrl_cn": "games/gdds/index.html",
-            "gameUrl": "games/gdds/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/gdds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gdds/index.html",
             "icon": "resources/images/gameIcons/icon_gdds.png",
             "screenShoots": [
                 "resources/images/screenShoot/gdds/1.jpg",
@@ -1183,8 +1255,8 @@
             "sort": 12,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/gdplj/index.html",
-            "gameUrl": "games/gdplj/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/gdplj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gdplj/index.html",
             "icon": "resources/images/gameIcons/icon_gdplj.png",
             "screenShoots": [
                 "resources/images/screenShoot/gdplj/1.jpg",
@@ -1201,8 +1273,8 @@
             "sort": 31,
             "type": "益智",
             "screenMode": 0,
-            "gameUrl_cn": "games/gfzqx/index.html",
-            "gameUrl": "games/gfzqx/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/gfzqx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gfzqx/index.html",
             "icon": "resources/images/gameIcons/icon_gfzqx.png",
             "screenShoots": [
                 "resources/images/screenShoot/gfzqx/1.jpg",
@@ -1220,8 +1292,8 @@
             "sort": 17,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/gsxq/index.html",
-            "gameUrl": "games/gsxq/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/gsxq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/gsxq/index.html",
             "icon": "resources/images/gameIcons/icon_gsxq.png",
             "screenShoots": [
                 "resources/images/screenShoot/gsxq/1.jpg",
@@ -1239,8 +1311,8 @@
             "sort": 13,
             "type": "动作",
             "screenMode": 1,
-            "gameUrl_cn": "games/hcrxdsj/index.html",
-            "gameUrl": "games/hcrxdsj/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/hcrxdsj/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/hcrxdsj/index.html",
             "icon": "resources/images/gameIcons/icon_hcrxdsj.png",
             "screenShoots": [
                 "resources/images/screenShoot/hcrxdsj/1.jpg",
@@ -1258,8 +1330,8 @@
             "sort": 29,
             "type": "益智",
             "screenMode": 1,
-            "gameUrl_cn": "games/lcdmx/index.html",
-            "gameUrl": "games/lcdmx/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/lcdmx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/lcdmx/index.html",
             "icon": "resources/images/gameIcons/icon_lcdzz.png",
             "screenShoots": [
                 "resources/images/screenShoot/lcdmx/1.jpg",
@@ -1277,8 +1349,8 @@
             "sort": 26,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/mhxd/index.html",
-            "gameUrl": "games/mhxd/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/mhxd/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/mhxd/index.html",
             "icon": "resources/images/gameIcons/icon_mhxd.png",
             "screenShoots": [
                 "resources/images/screenShoot/mhxd/1.jpg",
@@ -1296,8 +1368,8 @@
             "sort": 25,
             "type": "动作",
             "screenMode": 1,
-            "gameUrl_cn": "games/tktx/index.html",
-            "gameUrl": "games/tktx/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/tktx/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/tktx/index.html",
             "icon": "resources/images/gameIcons/icon_tktx.png",
             "screenShoots": [
                 "resources/images/screenShoot/tktx/1.jpg",
@@ -1315,8 +1387,8 @@
             "sort": 15,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/wcdq/index.html",
-            "gameUrl": "games/wcdq/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/wcdq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wcdq/index.html",
             "icon": "resources/images/gameIcons/icon_wcdq.png",
             "screenShoots": [
                 "resources/images/screenShoot/wcdq/1.jpg",
@@ -1334,8 +1406,8 @@
             "sort": 6,
             "type": "塔防",
             "screenMode": 0,
-            "gameUrl_cn": "games/zwdzjs/index.html",
-            "gameUrl": "games/zwdzjs/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/zwdzjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zwdzjs/index.html",
             "icon": "resources/images/gameIcons/icon_zwdzjs.png",
             "screenShoots": [
                 "resources/images/screenShoot/zwdzjs/1.jpg",
@@ -1353,8 +1425,8 @@
             "sort": 28,
             "type": "塔防",
             "screenMode": 0,
-            "gameUrl_cn": "games/zwjsrbq/index.html",
-            "gameUrl": "games/zwjsrbq/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/zwjsrbq/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/zwjsrbq/index.html",
             "icon": "resources/images/gameIcons/icon_zwjsrbq.png",
             "screenShoots": [
                 "resources/images/screenShoot/zwjsrbq/1.jpg",
@@ -1371,8 +1443,8 @@
             "sort": 27,
             "type": "射击",
             "screenMode": 0,
-            "gameUrl_cn": "games/wbjs/index.html",
-            "gameUrl": "games/wbjs/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/wbjs/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wbjs/index.html",
             "icon": "resources/images/gameIcons/icon_wbjs.png",
             "screenShoots": [
                 "resources/images/screenShoot/wbjs/1.jpg",
@@ -1389,8 +1461,8 @@
             "sort": 7,
             "type": "益智",
             "screenMode": 0,
-            "gameUrl_cn": "games/ncds/index.html",
-            "gameUrl": "games/ncds/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/ncds/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/ncds/index.html",
             "icon": "resources/images/gameIcons/icon_ncds.png",
             "screenShoots": [
                 "resources/images/screenShoot/ncds/1.jpg",
@@ -1409,8 +1481,8 @@
             "sort": 30,
             "type": "动作",
             "screenMode": 0,
-            "gameUrl_cn": "games/wsdlb/index.html",
-            "gameUrl": "games/wsdlb/index.html",
+            "gameUrl_cn": "https://app.yomitoo.com/games/wsdlb/index.html",
+            "gameUrl": "https://app.yomitoo.com/games/wsdlb/index.html",
             "icon": "resources/images/gameIcons/icon_wsdlb2.png",
             "screenShoots": [
                 "resources/images/screenShoot/wsdlb/1.jpg",
@@ -1420,6 +1492,62 @@
             ],
             "subTitle": "打造一个独特的商业帝国",
             "desc": "1 永远不要让你的员工懈怠\n2 雇佣更多的员工壮大你的团队\n3 不停发展自己的工厂规模"
+        },
+        {
+            "_id": "35",
+            "name": "猎龙传说",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://storage.y8.com/y8-studio/html5/toni/legend_of_dragon_hunt_v4/index.html?key=y8&value=default",
+            "gameUrl": "https://storage.y8.com/y8-studio/html5/toni/legend_of_dragon_hunt_v4/index.html?key=y8&value=default",
+            "icon": "resources/images/gameIcons/icon_lodh.png",
+            "screenShoots": [
+                "resources/images/screenShoot/lodh/1.jpg",
+                "resources/images/screenShoot/lodh/2.png",
+                "resources/images/screenShoot/lodh/3.png"
+            ],
+            "top": "resources/images/top/top_lodh.jpg",
+            "subTitle": "猎龙传说是一款充满冒险和策略的角色扮演游戏，玩家将探索奇幻世界，追逐强大的龙。",
+            "desc": "玩家将扮演勇敢的猎手，踏上征程，捕捉并驯服各类龙。游戏结合了丰富的故事情节、强大的角色发展系统和紧张的战斗机制，让每一次战斗都充满挑战。通过合作与竞争，玩家可以与好友一起探索这个广阔的奇幻世界，体验令人兴奋的冒险。"
+        },
+        {
+            "_id": "36",
+            "name": "恐龙猎手",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://test1.tongyigs.com/game/banner1/web/index.html",
+            "gameUrl": "https://test1.tongyigs.com/game/banner1/web/index.html",
+            "icon": "resources/images/gameIcons/icon_dsht.png",
+            "screenShoots": [
+                "resources/images/screenShoot/dsht/1.jpg",
+                "resources/images/screenShoot/dsht/2.jpg",
+                "resources/images/screenShoot/dsht/3.jpg",
+                "resources/images/screenShoot/dsht/4.jpg"
+            ],
+            "top": "resources/images/top/top_dsht.jpg",
+            "subTitle": "一款激动人心的动作游戏，玩家将操控变形金刚与恐龙展开激烈战斗。",
+            "desc": "玩家将体验到变形金刚与恐龙之间的史诗对决。游戏结合了快速的战斗机制和丰富的角色选择，让每场战斗都充满乐趣和挑战。通过完成任务和挑战，玩家可以解锁新的变形金刚和恐龙，提升游戏体验。"
+        },
+        {
+            "_id": "37",
+            "name": "皮纳塔射手",
+            "sort": 1,
+            "type": "射击",
+            "screenMode": 0,
+            "gameUrl_cn": "https://www.uraygame.com/Pinata_Shooter/index.html",
+            "gameUrl": "https://www.uraygame.com/Pinata_Shooter/index.html",
+            "icon": "resources/images/gameIcons/icon_pinata.jpg",
+            "screenShoots": [
+                "resources/images/screenShoot/pinata/1.jpg",
+                "resources/images/screenShoot/pinata/2.jpg",
+                "resources/images/screenShoot/pinata/3.jpg",
+                "resources/images/screenShoot/pinata/4.jpg"
+            ],
+            "top": "resources/images/top/top_pinata.jpg",
+            "subTitle": "一款有趣的射击游戏，玩家需要击打彩色皮纳塔以获得奖励。",
+            "desc": "玩家将体验到充满乐趣和挑战的射击玩法。游戏中有多种不同的皮纳塔，每种都有独特的奖励和难度。通过精准的射击和快速的反应，玩家可以解锁新关卡和道具，提升游戏体验。"
         }
     ],
     "HotGameConfigs": [
@@ -1498,11 +1626,25 @@
     ],
     "TopGameConfigs": [
         {
-            "_id": "1",
-            "name": "丧尸围城",
+            "_id": "36",
+            "name": "恐龙猎手",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "35",
+            "name": "猎龙传说",
+            "gameId": "1",
+            "sort": 3
+        },
+        {
+            "_id": "37",
+            "name": "皮纳塔射手",
             "gameId": "1",
             "sort": 3
         }
+
+
     ],
     "BannerShowGameConfigs": [
         {
